@@ -1,0 +1,5 @@
+{
+  "name": "JoraBase",
+  "description": "A serverless BaaS using GitHub as database and Telegram as storage.",
+  "requestFramePermissions": []
+}
